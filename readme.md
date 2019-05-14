@@ -15,8 +15,6 @@ pod 'SDWebImage', '~>3.7'
 pod 'SDWebImage/WebP'
 ```
 
-
-
 ## iOS 自定义控件
 
 ##### 分类列表
@@ -24,8 +22,6 @@ pod 'SDWebImage/WebP'
 - <https://github.com/vsouza/awesome-ios>
 - <https://github.com/Tim9Liu9/TimLiu-iOS#HUD%E4%B8%8EToast>
 - <http://code.cocoachina.com/view/126326>
-
-
 
 ##### 类似陌陌顶部的 segment view
 
@@ -38,7 +34,7 @@ pod 'SDWebImage/WebP'
 * <https://github.com/y-hryk/YSLDraggableCardContainer>
 * <https://github.com/Yalantis/Koloda>
 * <https://github.com/tispr/tispr-card-stack>
-
+* [https://github.com/modocache/MDCSwipeToChoose](https://github.com/modocache/MDCSwipeToChoose)
 
 
 ##### 自定义下拉刷新
@@ -46,32 +42,24 @@ pod 'SDWebImage/WebP'
 * <https://github.com/fruitcoder/ReplaceAnimation>
 
 
-
 ##### 花椒在用的 refresh control
 
 * <https://github.com/CoderMJLee/MJRefresh>
 
 
-
 ##### 分段选择器
 
 * <https://github.com/Voley/DVSwitch>
-
 * <https://github.com/dzenbot/DZNSegmentedControl> 
-
-
 
 ##### 网络图片自动缓存 + 异步下载
 
 * <https://github.com/rs/SDWebImage>
 
 
-
 ##### 照片浏览器
 
 * <https://github.com/ideaismobile/IDMPhotoBrowser>
-
-
 
 ##### 常用的左侧菜单
 
